@@ -1,0 +1,43 @@
+* {
+    font-family: "Poppins", sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    margin-left: 24.5%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+}
+
+.btn-container {
+    display: flex;
+    flex-direction: 'row';
+    align-items: center;
+    background-color: #fff;
+    border-radius: 12px;
+}
+
+.btn {
+    border: none;
+    color: #fff;
+    font-size: 0.7rem;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background-color: #bdc0c5;
+    margin: 0 10px;
+    height: 30px;
+    width: 80px;
+
+}
+
+.like-active {
+    background-color: #59a1f2;
+}
+
+.dislike-active {
+    background-color: #e3287f;
+}

@@ -1,0 +1,66 @@
+.video {
+    border-radius: 11px;
+    margin-left: 25%;
+}
+
+.video:hover {
+    box-shadow: 5px 5px 5px rgb(97, 104, 112);
+    cursor: pointer;
+}
+
+.ava_pad {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.avatar {
+    margin-left: 26%;
+}
+
+.videotext {
+    width: 100%;
+    font-size: large;
+    margin-left: 26%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.videotext2 {
+    display: block;
+    font-size: large;
+    margin-left: 26%;
+    color: rgb(151, 152, 153);
+    font-family: 'Trebuchet MS',
+        'Lucida Sans Unicode',
+        'Lucida Grande',
+        'Lucida Sans',
+        Arial,
+        sans-serif;
+}
+
+.videotext3 {
+    font-size: large;
+    margin-left: 26%;
+    color: rgb(151, 152, 153);
+    font-family: 'Trebuchet MS',
+        'Lucida Sans Unicode',
+        'Lucida Grande',
+        'Lucida Sans',
+        Arial,
+        sans-serif;
+    padding-bottom: 0px;
+}
+
+.but {
+    padding-top: 3px;
+}
+
+.toppad {
+    padding-bottom: 25px;
+    padding-top: 10px;
+}
+
+.me-2 {
+    border-radius: 10px;
+    margin-left: 23%;
+    width: 50%;
+}
